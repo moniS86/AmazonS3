@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ctsjavafsd21
+Build-Jdk: 11.0.7
+Implementation-Title: SpringS3Amazon
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.javasampleapproach.s3
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringS3Amazon
+ /
+Created-By: Maven Integration for Eclipse
+
